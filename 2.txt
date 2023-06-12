@@ -1,1 +1,2 @@
 Hello All This is Intellipaat class for Devops.
+We all are learing GIT now.
